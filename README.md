@@ -4,4 +4,4 @@ Build your own image recognition system group task
 
 ## Contributors:
 - Muahmmad Sohaib bin Kashif (221023977)
-- Souvik Chatterjee (...)
+- Souvik Chatterjee (221382131)
